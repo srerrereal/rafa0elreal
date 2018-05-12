@@ -1,0 +1,14 @@
+{
+  "name": "page-scroll-effects",
+  "homepage": "https://github.com/CodyHouse/page-scroll-effects",
+  "_release": "7a8f49b7b1",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "7a8f49b7b1dc423b2526c4ee972a8d21c145bd20"
+  },
+  "_source": "https://github.com/CodyHouse/page-scroll-effects.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/CodyHouse/page-scroll-effects.git",
+  "_direct": true
+}

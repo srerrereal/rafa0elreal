@@ -1,0 +1,94 @@
+@media only screen and (max-width: 736px){
+  #firstHead{
+    background-color: #000;
+    height: 300px!important;
+  }
+  #lineDrawing{
+  padding-top: 200px!important;
+  }
+  #Layer_1{
+    margin: 0;
+
+  }
+
+  .cd-section {
+    height: 70vh;
+  }
+
+
+
+  #subtitle{
+    margin-top: -200px!important;
+    font-size: 16px!important;
+  }
+
+  video{
+  display: none;
+  }
+
+  #responsive-header{
+    display: flex!important;
+    position: absolute;
+    width: 100%;
+    height: 408px;
+    top: 0px;
+    left: 0px;
+    opacity: .7!important;
+  }
+
+
+  .icons{
+    margin-left: 22px!important;
+    margin-right: 22px!important;
+    font-size: 42px!important;
+    color: #fff;
+  }
+
+  #iconList{
+    margin-top: -220px!important;
+
+
+  }
+
+.overlay{
+  visibility: hidden;
+}
+
+#saints{
+  padding-top: 200px;
+}
+
+#orlando{
+  padding-top: 200px;
+}
+
+.title{
+margin-top: 0;
+font-family: 'Roboto', sans-serif;
+font-size: 30px;
+font-weight: 900;
+color: #fff;
+  text-shadow: 4px 2px 1px rgba(0, 0, 0, .7);
+}
+
+.coverText{
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: #fff;
+  text-shadow: 4px 2px 1px rgba(0, 0, 0, .7);
+
+}
+
+.layerButton{
+  width: 120px;
+  margin-top: 0!important;
+  z-index: 2;
+  cursor: pointer;
+}
+
+.overlay{
+opacity: 1!important;
+}
+
+};

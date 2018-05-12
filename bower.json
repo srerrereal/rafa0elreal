@@ -1,0 +1,30 @@
+{
+  "name": "newresume",
+  "authors": [
+    "Rafael Rodrigues Real <rafaelrodriguesreal@hotmail.com>"
+  ],
+  "description": "My new resume.",
+  "main": "index.html",
+  "keywords": [
+    "resume",
+    "my",
+    "Rafael",
+    "Real"
+  ],
+  "license": "MIT",
+  "homepage": "http://srerrereal.github.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animejs": "https://github.com/juliangarnier/anime.git#^2.2.0",
+    "bootstrap": "https://github.com/twbs/bootstrap.git#^4.1.0",
+    "jquery-3.3.1.min": "https://code.jquery.com/jquery-3.3.1.min.js",
+    "page-scroll-effects": "https://github.com/CodyHouse/page-scroll-effects.git"
+  }
+}
